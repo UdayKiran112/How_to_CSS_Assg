@@ -1,0 +1,31 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+
+.container {
+    width: 500px;
+    background: #1de592;
+    margin: 40px auto;
+    padding: 130px 50px;  
+    border-radius: 15px;
+}
+
+.heading {
+    font-size: 40px;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: bold;
+}
+
+.matter{
+    font-weight: bold;
+    font-family: 'Roboto';
+}
+.btn {
+    background-color: #fff;
+    border: none;
+    padding: 14px 30px;
+    border-radius: 60px;
+    font-weight: 1000;
+    margin-top: 10px;
+    font-size: large;
+    font-family: 'Roboto-bold';
+
+}
